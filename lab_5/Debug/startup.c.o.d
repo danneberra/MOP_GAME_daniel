@@ -1,3 +1,3 @@
-Debug/startup.c.o: startup.c supplements.h
+Debug/startup.c.o: startup.c allt.h
 
-supplements.h:
+allt.h:

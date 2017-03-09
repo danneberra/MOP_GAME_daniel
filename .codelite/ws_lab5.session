@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session Name="C:\Users\czar\Documents\git_laboration\ws_lab5.workspace">
+<Session Name="C:\Users\Daniel\Documents\MOP_GAME_daniel\ws_lab5.workspace">
   <int Value="0" Name="m_selectedTab"/>
-  <wxString Value="C:\Users\czar\Documents\git_laboration\ws_lab5.workspace" Name="m_workspaceName"/>
-  <TabInfoArray Name="TabInfoArray"/>
+  <wxString Value="C:\Users\Daniel\Documents\MOP_GAME_daniel\ws_lab5.workspace" Name="m_workspaceName"/>
+  <TabInfoArray Name="TabInfoArray">
+    <TabInfo>
+      <wxString Value="C:\Users\Daniel\Documents\MOP_GAME_daniel\lab_5\startup.c" Name="FileName"/>
+      <int Value="14" Name="FirstVisibleLine"/>
+      <int Value="27" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Daniel\Documents\Hemuppgifterna\graphicdisplay\startup.c" Name="FileName"/>
+      <int Value="13" Name="FirstVisibleLine"/>
+      <int Value="45" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\Users\Daniel\Documents\MOP_GAME_daniel\lab_5\supplements.h" Name="FileName"/>
+      <int Value="423" Name="FirstVisibleLine"/>
+      <int Value="443" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+  </TabInfoArray>
   <SerializedObject Name="m_breakpoints">
     <long Value="0" Name="Count"/>
   </SerializedObject>

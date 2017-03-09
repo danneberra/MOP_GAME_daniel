@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Project Name="lab_5" InternalType="User templates">
+<CodeLite_Project Name="lab4" InternalType="User templates">
   <Plugins>
     <Plugin Name="qmake">
       <![CDATA[00010001N0005Debug000000000000]]>
@@ -119,7 +119,9 @@ monitor restart</PostConnectCommands>
   </Settings>
   <VirtualDirectory Name="src">
     <File Name="startup.c"/>
-    <File Name="allt.h"/>
+    <File Name="header.h"/>
+    <File Name="graphic_objs.h"/>
+    <File Name="key_input.h"/>
   </VirtualDirectory>
   <VirtualDirectory Name="resources">
     <File Name="md407-ram.x"/>

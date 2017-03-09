@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="ws_lab5" Database="">
-  <Project Name="lab_5" Path="lab_5/lab_5.project" Active="Yes"/>
+  <Project Name="lab_5" Path="lab_5/lab_5.project" Active="No"/>
+  <Project Name="graphicdisplay" Path="../Hemuppgifterna/graphicdisplay/graphicdisplay.project" Active="No"/>
+  <Project Name="SpelLaboration" Path="../SpelLaboration/SpelLaboration/SpelLaboration.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
       <Project Name="lab_5" ConfigName="Debug"/>
+      <Project Name="graphicdisplay" ConfigName="Debug"/>
+      <Project Name="SpelLaboration" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
       <Project Name="lab_5" ConfigName="Release"/>
+      <Project Name="graphicdisplay" ConfigName="Release"/>
+      <Project Name="SpelLaboration" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
